@@ -1,0 +1,65 @@
+﻿body {
+    height: 100%;
+    margin: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+.bolum1 {
+    display: flex;
+}
+
+.kutu1 {
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.kutu2 {
+    background-color: gray;
+    height: 100px;
+    width: 700px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.bolum2 {
+    margin-top: 10px;
+    display: flex;
+}
+
+.kutu3 {
+    background-color: gray;
+    height: 500px;
+    width: 100px;
+    margin-right: 10px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+ 
+}
+
+.kutu4 {
+    background-color: darkgray;
+    height: 500px;
+    width: 700px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.bolum3 {
+    margin-top: 10px
+}
+
+.kutu5 {
+    background-color: gray;
+    height: 50px;
+    width: 810px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
