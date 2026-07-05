@@ -24,7 +24,7 @@ Uygulama üzerinden otoparka giriş yapan araçların bilgileri veritabanına ka
 
 ## 📸 Ekran Görüntüsü
 
-![Araç Giriş Sayfası](images/arac-giris.png)
+![Araç Giriş Sayfası](arac-giris.png)
 
 ## 👩‍💻 Geliştirici
 
