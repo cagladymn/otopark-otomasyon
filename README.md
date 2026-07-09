@@ -21,6 +21,11 @@ Uygulama üzerinden otoparka giriş yapan araçların bilgileri veritabanına ka
 - SQL Server
 - HTML
 - CSS
+  
+## 🗄️ Veritabanı
+
+Projede kullanılan SQL Server veritabanı scripti **Database** klasöründe bulunmaktadır.
+`Database/Otopark.sql`
 
 ## 📸 Ekran Görüntüsü
 
